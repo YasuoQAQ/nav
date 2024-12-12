@@ -3,7 +3,7 @@
 ## 网址导航页面配置
 ################
 # 网站标题
-title: 财神BTC
+title: 财神币圈导航
 # 网站 LOGO（可选）
 logo: https://s2.loli.net/2024/12/12/owPX96r25aSpnOs.png
 # 网址导航页面关键字（可选）
@@ -43,27 +43,27 @@ categories:
     links:
       - title: 财神笔记【社区交流群】
         logo: https://s2.loli.net/2024/12/12/beg5sUE2rfdpSY1.png
-        url: https://dto.pipecraft.net/
+        url: https://t.me/caishen_btc
         description: 公开社区交流群
         # tags: 程序员,社区
       - title: 财神笔记 TG
         logo: https://s2.loli.net/2024/12/12/beg5sUE2rfdpSY1.png
-        url: https://discuss-cn.bestxtools.com/
+        url: https://t.me/CAISHENBIJI
         description: 财神笔记 TG
         # tags: 在线工具,周刊,社区
       - title: Discord 会员专区
         logo: https://s2.loli.net/2024/12/12/4ixHyqoLOhkImfQ.jpg
-        url: https://github.com/geneasy/nav/issues
+        url: 
         description: 交易教学，策略教学
         # tags: 程序员,生活,创意
       - title: X
         logo: https://s2.loli.net/2024/12/12/G6awdS9JcxpFEs5.jpg
-        url: https://discuss-cn.pipecraft.net/
+        url: https://x.com/CaiShenBiji
         description: 推特
         # tags: RSS,Atom,聚合新闻,内容订阅
       - title: YouTube
         logo: https://s2.loli.net/2024/12/12/7tOzPBCRr28VqXk.jpg
-        url: https://discuss-cn.pipecraft.net/
+        url: https://www.youtube.com/@%E8%B4%A2%E7%A5%9E%E7%AC%94%E8%AE%B0
         description: 油管
         # tags: RSS,Atom,聚合新闻,内容订阅        
 
@@ -87,10 +87,11 @@ categories:
     links:
       - title: 【币安】全球第一交易所
         logo: https://s2.loli.net/2024/12/12/ybxuP3iNw5EYLM2.jpg
+        url: https://www.notion.so/hyshare-nsfw/13b18192cae68067b4dbddb5b9469e2c?pvs=4
         description: 现货/合约最高返佣比例
       - title: 币安返佣【注册教程】
         logo: https://s2.loli.net/2024/12/12/ybxuP3iNw5EYLM2.jpg
-        url: 
+        url: https://www.notion.so/hyshare-nsfw/13b18192cae68067b4dbddb5b9469e2c?pvs=4
         description: 币安返佣【注册教程】
         tags: 空投,羊毛,教程
       - title: Bitget 梅西代言
